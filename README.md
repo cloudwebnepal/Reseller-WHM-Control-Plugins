@@ -1,3 +1,8 @@
+Developed by: Cloud Web Nepal
+Whatapp Plugins Support And License: +977-9845870006
+Anually License Fee: Only 8$/yr and in NPR Rs 1200
+Website: [https://cloudwebnepal.com]
+
 # Reseller Controls (WHMCS Module)
 
 Reseller Controls is a powerful WHMCS module designed to give hosting resellers direct access to essential WHM features without ever leaving the WHMCS client area. It removes the hassle of logging into WHM for common tasks and simplifies account management for you and your clients.
